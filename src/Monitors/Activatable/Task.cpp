@@ -24,7 +24,7 @@
 // https://github.com/LSTS/dune/blob/master/LICENCE.md and                  *
 // http://ec.europa.eu/idabc/eupl.html.                                     *
 //***************************************************************************
-// Author: Henning Ødeby Karlsen                                            *
+// Author: Andreas Haugland                                         *
 //***************************************************************************
 
 // DUNE headers.
