@@ -89,7 +89,7 @@ namespace Monitors
       //! Main loop.
       void
       onMain(void)
-      {
+      {war("onMain");
         while (!stopping())
         {
           waitForMessages(1.0);
